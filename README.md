@@ -10,3 +10,7 @@ se define que habra una pantalla de ingreso  una pantalla de menu
 
 se define que habra una pantalla de ingresos mantenimiento de libros, usuarios ,  tipos de libros 
   v1.3 - Manteniientos
+
+
+se define que habra una pantalla de Proceso prestamo y otra para la  devolucion de los libros 
+  v1.4 - Proceso prestamo - devolucion
