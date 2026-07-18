@@ -16,6 +16,5 @@ se define que habra una pantalla de Proceso prestamo y otra para la  devolucion 
 habra dos partes un admisnistrativa y una de usuarios normales , se definen 2 tipos de perfiles , el uno hace mantenimientos y el otro hace prestamos
   v1.5 - Definicion de perfiles de usuarios
 
-Error: al calcular multas por retraso el sistema genera error 540, no calcula correctamente los días de atraso
-  v1.6 - Error 540 en cálculo de multas
-
+ Corregido error 540: el sistema ahora calcula correctamente los días de atraso. Se restauró la lógica estable de v1.5.
+     v1.7 - Corregido error 540: 
