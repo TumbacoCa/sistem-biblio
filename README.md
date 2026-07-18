@@ -14,3 +14,6 @@ se define que habra una pantalla de ingresos mantenimiento de libros, usuarios ,
 
 se define que habra una pantalla de Proceso prestamo y otra para la  devolucion de los libros 
   v1.4 - Proceso prestamo - devolucion
+
+habra dos partes un admisnistrativa y una de usuarios normales , se definen 2 tipos de perfiles , el uno hace mantenimientos y el otro hace prestamos
+ v1.5 - Definicion de perfiles de usuarios
