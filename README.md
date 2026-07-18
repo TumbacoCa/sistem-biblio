@@ -1,1 +1,5 @@
 # sistem-biblio
+
+  Sistema para gestión de préstamos de libros, registro de usuarios y control de multas por retraso al devolverlos.
+
+  v1.1 - agregada descripción del sistema
